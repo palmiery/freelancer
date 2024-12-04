@@ -11,5 +11,5 @@ Lembramos que a atividade foi realizada com o auxílio do Chat GPT 4o Versão Gr
 
 * HTML
 * CSS
-* JAVASCRIP
+* JAVASCRIPT
 
