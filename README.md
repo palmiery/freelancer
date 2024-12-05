@@ -10,14 +10,14 @@ Ao baixar o repositório, recomenda-se assistir o **screencast** e abrir o site 
 
 Lembramos que a atividade foi realizada com o auxílio do Chat GPT 4o Versão Gratuita.
 
-# Tecnologias utilizadas
+# Tecnologias 
 
 * HTML
 * CSS
 * JAVASCRIPT
 
 
-# Ferramentas utilizadas
+# Ferramentas 
 
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Trim Video](https://online-video-cutter.com/)
