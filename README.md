@@ -1,3 +1,5 @@
+![Screencast](https://github.com/palmiery/freelancer/blob/main/screencast.mp4)
+
 # freelancer
 Atividade avaliativa - Unidade II - DESENVOLVIMENTO DE SISTEMAS WEB I
 
@@ -12,4 +14,5 @@ Lembramos que a atividade foi realizada com o auxílio do Chat GPT 4o Versão Gr
 * HTML
 * CSS
 * JAVASCRIPT
+
 
