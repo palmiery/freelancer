@@ -1,4 +1,4 @@
-![Screencast](https://github.com/palmiery/freelancer/blob/main/screencast.mp4)
+[![Assista o vídeo](https://youtu.be/E0q6GDMBsuA)
 
 # freelancer
 Atividade avaliativa - Unidade II - DESENVOLVIMENTO DE SISTEMAS WEB I
