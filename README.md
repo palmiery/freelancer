@@ -17,3 +17,10 @@ Lembramos que a atividade foi realizada com o auxílio do Chat GPT 4o Versão Gr
 * JAVASCRIPT
 
 
+# Ferramentas utilizadas
+
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Trim Video](https://online-video-cutter.com/)
+* [ChatGPT](https://chatgpt.com/)
+* [Google Chrome Browser](https://www.google.com/chrome/dr/download/?brand=CHBD&ds_kid=43700077663102735&gad_source=1&gclid=Cj0KCQiAu8W6BhC-ARIsACEQoDAM9kfDo85cPQroWwhnvjIxq3GftmDkZk5mZ0Z67YLcEe0Gt1YBP00aApdiEALw_wcB&gclsrc=aw.ds)
+* 
