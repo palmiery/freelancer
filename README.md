@@ -1,4 +1,4 @@
-[![Assista o vídeo](https://youtu.be/E0q6GDMBsuA)
+![Assista o vídeo](https://youtu.be/E0q6GDMBsuA)
 
 # freelancer
 Atividade avaliativa - Unidade II - DESENVOLVIMENTO DE SISTEMAS WEB I
