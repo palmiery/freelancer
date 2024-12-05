@@ -1,7 +1,7 @@
-https://github.com/user-attachments/assets/88b829c9-dc0b-414e-893b-5521a8a148f7
+https://github.com/user-attachments/assets/c3a28d3a-94d4-4736-86b0-3cba42547db2
 
+# Freelancer
 
-# freelancer
 Atividade avaliativa - Unidade II - DESENVOLVIMENTO DE SISTEMAS WEB I
 
 # Observações importantes
